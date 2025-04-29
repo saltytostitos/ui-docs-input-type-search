@@ -53,7 +53,7 @@ useSeoMeta({
       <USelect class="w-28" placeholder="select" />
     </div>
     <UAlert
-      description="Tailwind Only"
+      description="Tailwind Only with matching class list"
       class="max-w-lg mx-auto mt-6"
       variant="subtle"
     />
